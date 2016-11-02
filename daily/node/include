@@ -1,0 +1,7 @@
+/boot/grub
+/etc
+/usr/local
+/var/spool/cron
+/var/lib/rpm
+/root/bin
+- **
